@@ -1,0 +1,18 @@
+{
+  "resourceType": "GMOperaGXOptions",
+  "resourceVersion": "1.0",
+  "name": "operagx",
+  "option_operagx_display_cursor": true,
+  "option_operagx_editUrl": "https://create.gx.games/game/dafe188b-6ddb-4d22-93f6-a4fd5040c1c2/edit",
+  "option_operagx_game_name": "game jam",
+  "option_operagx_guid": "dafe188b-6ddb-4d22-93f6-a4fd5040c1c2",
+  "option_operagx_internalShareUrl": "",
+  "option_operagx_interpolate_pixels": true,
+  "option_operagx_next_version": "1.0.0.1",
+  "option_operagx_publicShareUrl": "",
+  "option_operagx_scale": 0,
+  "option_operagx_team_id": "41e5ac44-2406-4c0e-b5c1-c87affa5bdb4",
+  "option_operagx_team_name": "COMRADECHOnKy studio",
+  "option_operagx_texture_page": "2048x2048",
+  "option_operagx_version": "1.0.0.0",
+}
